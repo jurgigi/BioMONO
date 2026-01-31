@@ -1,0 +1,810 @@
+* and colleagues
+* can be neglected
+* correlates with
+* has been proposed
+* has been shown to be
+* have been shown to be
+* noted that
+* on the horizontal axis and * on the vertical axis
+* studies are needed to
+*'s pitfall
+a bright future lies ahead
+a critical issue in handling
+a deeper understanding of
+a definition of * is
+a first proof-of-concept test performed
+a key characteristic of
+a large amount of
+a number of researchers have proposed
+a pertinent example of
+a reaction generates
+a second possibility is that
+a study on
+a study was made of
+a summary of * is presented in table *
+a test is carried out to
+a valid question is
+according to *
+according to the * model
+accordingly
+ad hoc metric
+after approval from
+aimed at *ing
+all statistical analyses were performed using
+allow the user
+allow us to investigate
+allows us to adopt
+although we begin to understand
+an additional need is
+an examination of
+an exploratory case study evaluated
+an extensive literature
+an increase by * order of magnitude
+an increase by x order of magnitude
+an interesting question is
+analysis revealed that
+anecdotal reports suggest
+another part of the literature
+another strategy is
+appendix * displays
+are based on
+are being investigated
+as a consequence
+as a final note
+as a function of
+as a general trend
+as a proof of concept
+as a result
+as an improvement to earlier research
+as attractive as it may be
+as can be perceived from figure *
+as can be seen from
+as compared to
+as depicted in fig. *
+as described in this article
+as described previously
+as discussed above
+as far as * is concerned
+as illustrated in figure *
+as in the case of
+as is demonstrated in the following chapters
+as mentioned above
+as mentioned earlier
+as might be expected
+as outlined above
+as per the equation below
+as previously described
+as previously established in
+as previously indicated
+as reported in
+as reviewed below
+as shown by
+as shown by *
+as shown in fig. *
+as shown in figure *
+as shown in table *
+as stated above
+as stated in
+as was mentioned
+associated with
+assuming that
+at the time of publication
+at the time of this review
+at the time of writing
+based on * criteria
+based on a systematic literature review
+based on preliminary measurements
+based on previous studies
+based on the above characteristics
+based on the above observation
+based on the current literature
+based on this collected evidence, it is concluded that * is likely
+be well understood
+blooming research field
+body language
+bridge the gap
+brought about by the advent of
+by doing so
+by evaluating
+by means of
+by means of a * model
+can be computed as
+can be observed
+can be solved
+can be used as
+can be used for
+can be used to
+can be viewed as
+clinical studies have proven *
+collect data
+compare data
+concern is mounting
+conduct a research
+conduct interviews
+considering the above
+consistent with
+constitute the * equivalent of
+contribute markedly
+corroborate the findings
+could be a means of
+counterintuitive finding
+current philosophy supports
+data are from
+data available so far
+data suggests that
+data was analysed using
+depicted in fig. *
+described in the literature
+deserves further investigation
+despite these advantages
+details of * have been published elsewhere
+develop a framework
+develop a series of * tests
+development of a framework
+discuss the challenges
+discussed in section *
+discusses the challenges
+draw * attention
+due to the lack of
+due to the presence of *
+during this operation
+effects reported
+effort to
+eremerging field
+et al
+evidence in support
+evidence suggests
+evidence suggests that
+exhibit significant differences
+expected by chance
+experiments have shown that
+failed to demonstrate
+fig. * shows
+figure * illustrates
+figure * shows
+findings from this study are consistent with
+for * the reader is referred to
+for instance
+for our purposes
+for the purpose of this review we focus on
+for the purposes of this review
+for these types of
+for this study
+for this to be possible,
+from a * point of view
+from the * tests, it can be concluded that
+from the above results
+from the results
+further inquiry revealed
+further research is necessary
+further research is suggested
+further studies should be aimed at
+further work is planned
+further work is required to assess
+future research needs to
+future scope of the work
+future work in this area
+future work will focus on
+given the paucity of data
+gives a description
+goes beyond the scope of this
+has become a major issue of current research in
+has been demonstrated
+has been established
+has been shown to
+has suggested that
+has yielded result
+have been demonstrated
+have been found to be
+have been shown to
+have the potential to
+have yielded result
+her hypothesis was validated
+here are some simple examples of
+here it is suggested that
+here we examine
+here we review
+if proven, then
+in a recent review on this topic
+in agreement with
+in animals
+in compliance with
+in contrast
+in early studies
+in light of
+in light of these findings
+in line with
+in men
+in order to understand *
+in other studies
+in parallel with
+in practice
+in response to
+in section
+in situ observation
+in some cases
+in some circumstances
+in some detail
+in such a context
+in summary, it is clear that
+in terms of
+in the case of
+in the context of
+in the experimental setup
+in the first study
+in the following
+in the following we list
+in the framework of the present review
+in the histogram
+in the literature
+in the matter of
+in the presence of
+in the present study
+in the present work
+in the same way that
+in the sequel
+in this * we will survey
+in this article
+in this article we suggest that
+in this paper
+in this paper i argue
+in this paper we present
+in this paper we survey the state of art in *ing
+in this review, we discussed
+in this sense
+in this tutorial review, we focus on
+in women
+included in the model
+initial recommendations are provided
+initial work has shown
+investigate all the details of
+is also likely to
+is associated with
+is based on
+is based on the fact that
+is being investigated
+is beyond the scope of this
+is carried out for
+is carried out to
+is consistent with
+is defined as * where
+is experimentally confirmed to
+is measured by
+is of the utmost importance
+is proving to be an extremely important area of research
+is reported in
+is taken into account
+is widely accepted
+it also came to recognition that
+it can be argued that
+it can be concluded that
+it can be observed that
+it could be stated that
+it follows that
+it has been observed that
+it has been reported that
+it has been speculated that
+it has been well accepted that
+it has been well documented that
+it is anticipated that
+it is assumed that
+it is concluded
+it is concluded that
+it is critical to understand
+it is evident from the figure that
+it is generally supposed that
+it is important also to consider
+it is important to
+it is important to keep in mind that
+it is important to stress that
+it is important to understand
+it is inferred that
+it is interesting to note that
+it is likely that
+it is not obvious why
+it is of interest to
+it is pertinent to note that
+it is quite intriguing that
+it is therefore likely that
+it is unclear
+it is unclear as to whether
+it is well known that
+it is worth emphasising that
+it is worth mentioning that
+it is worth noting that
+it may be noted that
+it must be observed that
+it remains unknown if
+it seems that
+it seems unlikely that
+it should be noted that
+it should be recalled that
+it stands to reason that
+it then becomes a question to
+it was assumed that
+it was demonstrated that
+it was found that
+it was observed that
+it was shown that
+it will be interesting to find out whether
+key insight
+lead to the conclusion
+let us consider
+let us say
+limited options
+little research
+main concern
+major advancement
+major concern
+make a strong case for
+manipulate experimental conditions
+manipulates experimental conditions
+many studies suggest that
+more attention should be directed toward
+more recently
+much recent interest in
+much recent work has focused on
+my approach is based
+my concern here is with
+negatively correlated with
+no studies have demonstrated
+note that
+note though
+observing the behaviour
+often associated with
+on the basis of
+on the order of
+on theoretical grounds
+one can confidently conclude that
+one estimate suggests
+one further issue is
+one hypothesis suggests that
+one interpretation of these results is that
+one of the key scientific questions
+one of the main goals of * is
+one of the methods under study is
+one should be aware that
+ongoing research
+open up the possibilities for
+other studies revealed
+other work on
+our approach is to
+our current understanding
+our findings imply
+our findings suggest that
+our group has shown that
+our hypothesis was
+our intent is to
+our measurements reveal
+our research goal is
+our results show that
+our review focuses on
+our review reveals that
+our studies reveal
+our studies show that
+our study differs from previous research
+our study offers some support for
+our study suggest
+our study suggests
+part of the literature
+pioneering work
+play an important role in
+plays an important role in
+plotted in fig. *
+presented technology relies on
+pressing concern
+pressing need
+previous studies have highlighted
+previous studies have shown
+previous work done
+previous work has not seen much research in
+previous work has shown
+previous works focus on
+prior studies have shown that
+problem that arises
+profound implications
+promising field
+promising result
+propagate uncertainty
+provide further insight into
+provides * with an ideal lens for the study of
+provides recommendations to
+qualitative data suggested that
+quite a few papers come to the conclusion that
+recent research has highlighted
+recent studies suggest that
+recruit participants
+reports an in-depth analysis of
+reports indicate
+represent a major step in
+reproduced with permission from
+require detailed assessment
+research evidence
+research has shown
+research identifies
+research indicates that
+research suggests that
+results are frequently limited to
+results from this study
+results have shown that
+results in table * indicate that
+results indicated that
+results were obtained
+reveal the impact of
+sample collection
+scarce mention is given to
+see * for a discussion.
+selected from the group consisting of
+several articles have shown that
+several lines of evidence have indicated that
+several studies have analyzed
+several studies have demonstrated
+several studies have examined
+several studies reported
+several studies show that
+should be considered
+should be ruled out
+significant evidence indicates that
+significant influence of * on
+significant literature
+signiﬁcantly different
+similar results were found in
+similarly
+some studies showed
+special attention
+special attention was paid to *ing
+state of the art
+statistical analysis was carried out
+statistical significance
+statistically significant
+stress the importance of
+studies have begun to bring to light
+studies have investigated
+studies have shown that
+studies included in this review
+studies indicate that
+studies involving
+studies to date show that
+studies undertaken to date
+studies which seek to
+studies will address
+studies will be used to
+study has revealed that
+synthesis of the results
+table * gives an overview of
+table * provides
+table * reports
+table * shows
+table * summarizes
+taken together, the results
+taken together, these results
+tests have showed that
+the ability of * to
+the advances in
+the aim of the present study is to
+the aim of this article is
+the aim of this study
+the aim of this study is
+the aim of this work is to
+the analysis indicates that
+the analysis is based on
+the article is structured as follows.
+the assumption begs the question
+the assumption in this regard is
+the assumption underpinning the concept
+the authors concluded that
+the chapter concludes by
+the conclusions of this study
+the contrary effect was observed
+the current findings are consistent with
+the current research provides a * contribution
+the decision made after
+the desire to
+the effects of
+the efforts presented in the literature
+the existing literature on *
+the experiment shows
+the findings demonstrated
+the following assumptions were made
+the following hypothesis is proposed
+the following paragraphs summarise
+the goal of the current study was to replicate previous studies
+the hypothesis of this study was that
+the literature argues that
+the literature used to argue that
+the main motivation for our research
+the main objective
+the main purpose of this analysis
+the major contribution of this article
+the measurements were made with
+the methodology is summarized here
+the models presented here
+the most commonly used
+the most relevant
+the need for further
+the objective is to
+the objective of this article is to
+the onus is on manufacturers to
+the paper contributes to the strand of the literature
+the paper demonstrates
+the paper is organized as follows
+the present paper describes
+the present work
+the properties of
+the proposed method uses
+the purpose of this article
+the purpose of this study
+the question to arise from
+the results are consistent with
+the results of * are presented and discussed
+the results presented in this study
+the results show
+the results show support for
+the results show that
+the results were expressed in accordance with
+the studies found that
+the study findings advance
+the study highlights
+the study relies on
+the study was approved by
+the study was conducted in patients
+the target is to know
+the test confirmed that
+the tests were conducted
+the theoretical basis for
+the underlying * is based on
+the validity of this conclusion
+the ﬁrst observation of
+there are cases where
+there are concerns and some evidence to suggest that
+there are many disagreements on
+there are several problems to be considered
+there has been few studies
+there is a correspondence here with
+there is a direct correlation between the
+there is a perception that
+there is a shortage of accurate data
+there is a strong correlation between
+there is also evidence that
+there is clearly a need for further work to
+there is evidence that
+there is potential for
+there is some disagreement over
+there is some evidence to suggest that
+there was no significant difference
+there was no significant difference between * and
+these findings are the first to describe
+these include, but are not confined to,
+these observations provide evidence that
+these observations suggest that
+these results are consistent with
+these results are surprising
+these results highlight
+these results suggest that
+these results were obtained
+this * demonstrates that
+this * draws from
+this analysis suggests that
+this article draws on
+this article presents an overview of
+this can be achieved by
+this chapter defines *
+this contribution to the field will allow
+this field is organized into
+this hypothesis is only valid for
+this is confirmed by
+this is known as the * problem
+this is particularly true
+this may be called the * problem
+this observation highlights
+this observation suggests that
+this paper demonstrated that
+this paper describes
+this paper discusses
+this paper discusses six elements of
+this paper explores
+this paper investigates
+this paper looks at
+this paper presents
+this paper reviews
+this paper will detail
+this possibility is supported by
+this procedure is used to
+this research seeks to deepen
+this results in
+this review examines these challenges and summarizes the areas in
+this review summarizes
+this section discusses
+this study demonstrates how
+this study enrolls
+this study has demonstrated that
+this study shows
+this the * problem
+this update will keep knowledge about
+this work
+this work demonstrates that
+this work describes how
+this work focuses on *
+to accomplish this
+to achieve this goal
+to address our aim
+to address these questions
+to address this issue
+to apply a method
+to arise from experimental results
+to assess the impact of
+to assess this criterion
+to assume that
+to be assessed by
+to be assumed
+to be assumed to be
+to be at the focus of
+to be beyond the scope of
+to be calculated as follows
+to be calculated by
+to be conducted
+to be confirmed in an experiment
+to be considered
+to be consistent with
+to be currently under investigation
+to be described elsewhere by
+to be discussed in section *
+to be eager to see
+to be extensively researched
+to be fitted to the data
+to be found to correlate with
+to be given by
+to be known to be
+to be obtained as follows
+to be often referred to as
+to be reported by
+to be reported in the literature
+to be shown in figure *
+to be supposed to
+to better understand
+to briefly discuss
+to capture the structure of
+to carry out a study
+to carry out an experiment
+to cater to someone
+to cause an increase
+to cause damages
+to compensate for a disadvantage
+to conduct a search
+to conduct a study
+to conduct research
+to confirm that
+to consider the link
+to contribute * percent
+to date
+to describe methods in detail
+to deserve more research
+to develop a methodology
+to develop a model
+to directly support
+to discuss * in turn
+to discuss scenario
+to discuss the challenges
+to drastically reduce
+to draw conclusions from
+to draw inferences
+to draw upon experience
+to estimate a model
+to examine the impact of
+to fail to perform well
+to find ways of
+to focus primarily on
+to follow an approach
+to form the remainder of this paper
+to further investigate
+to gather increasing interest
+to give us the ability to create
+to have competing interests related to
+to have demonstrated that
+to identify
+to increase the risk of
+to indicate that
+to intensify the flavor
+to investigate the potential of
+to make a heightened effort to
+to make it possible to
+to make the point that
+to manage experimental conditions
+to manipulate experimental conditions
+to massage the figures
+to measure information
+to meta-analyze data
+to methodically assess
+to moderate the astringency
+to observe a similar trend for
+to offer advanced properties
+to open the path to
+to our knowledge
+to participate in the study
+to perform tests
+to play a key role
+to play an important role in
+to predict
+to present a disadvantage
+to present an approach
+to propose a premodifier framework for *
+to prove to be
+to provide a brief description of
+to provide a summary
+to provide important insight into the
+to provide insight
+to provide proof of concept
+to provide subjects with knowledge
+to reach conclusions
+to refer to
+to rely on
+to replicate the analyses from the literature
+to report a comprehensive study
+to report that
+to report the results
+to result in
+to review the research work on
+to shed light on
+to show *
+to show a result
+to show evidence of
+to simplify the explanation
+to solve this issue
+to some extent
+to stabilize an emulsion
+to study *
+to suggest a link between * and *
+to suggest that
+to support the idea that
+to take a step beyond
+to test an hypothesis
+to thank * for early discussions on this topic
+to thank * for their helpful suggestions
+to thank * for very helpful comments
+to thank an anonymous reviewer
+to the best of our knowledge
+to undergo coalescence
+to use two case histories
+to utilize evidence
+to validate the hypothesis made
+to warrant further investigation
+under the present experimental conditions
+under these circumstances
+undertake a research on
+usually denoted *
+we aim here to
+we aimed to
+we aimed to outline
+we also examined
+we also thank
+we anticipate that
+we assume that
+we can identify
+we challenge this conclusion
+we consider the
+we do not understand
+we focus our analysis on
+we found
+we have shown
+we hypothesize that
+we hypothesized that
+we note that
+we predicted that
+we speculate about
+we will discuss
+we will review
+we wish to thank
+we would also like to thank
+were successful in
+were transcribed from
+what is clear though
+when it comes to
+where * represents
+which were seen to respond to
+will be discussed in
+will speculate on
+with increasing interest
+with specific reference to
+with the aim of obtaining
+with this approach
+within the uncertainties
