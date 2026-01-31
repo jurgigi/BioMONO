@@ -212,7 +212,7 @@ Dispersion can be computed once MWEs are extracted. The paper reports:
 DP = \frac{1}{2}\sum_{i=1}^{N}\left|p_i - s_i\right|
 ```
 
-Where \(p_i\) is the observed proportion of an MWE’s occurrences in document \(i\), and \(s_i\) is the expected proportion under the baseline (operationalized as the document’s share of tokens in the section).
+Where _pᵢ_ is the observed proportion of an MWE’s occurrences in document _i_, and _sᵢ_ is the expected proportion under the baseline (operationalized as the document’s share of tokens in the section).
 
 ---
 
