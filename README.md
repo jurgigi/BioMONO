@@ -102,7 +102,7 @@ https://artes.app.univ-paris-diderot.fr/
 
 ## How to use
 
-### A) Corpus building (XML → IMRaD TXT)
+### Corpus building (XML → IMRaD TXT)
 
 **Goal**: from a folder of JATS XML files, keep only those whose subject contains “bioinformatics”, then extract IMRaD sections into section-specific output folders.
 
