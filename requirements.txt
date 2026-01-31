@@ -1,0 +1,17 @@
+# --- Core utilities ---
+tqdm>=4.66.0
+
+# --- Corpus build: XML (JATS/PLOS) parsing ---
+# Recommended (script falls back to stdlib ElementTree if missing, but lxml is more robust)
+lxml>=5.0.0
+
+# --- UD parsing: Stanza -> CoNLL-U ---
+stanza>=1.8.2
+torch>=2.1.0
+
+# --- UD-based MWE extraction: CoNLL-U reading ---
+pyconll>=3.2.0
+
+# --- PyMUSAS: spaCy pipeline + USAS tagging ---
+spacy>=3.7.0,<4.0.0
+pymusas>=0.3.0
