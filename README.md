@@ -4,7 +4,7 @@ This repository provides the codebase used to (i) build a corpus of bioinformati
 
 ## Corpus access
 
-The corpus is available here: **[LINK TO CORPUS]**  
+The corpus is available here: 
 https://doi.org/10.6084/m9.figshare.31215955 
 
 
