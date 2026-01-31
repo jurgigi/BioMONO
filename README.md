@@ -82,16 +82,10 @@ MWEs are extracted using complementary automated methods:
   - `flat:foreign` (foreign sequences)
 
 Parsing is performed with **Stanza**:
-
-```text
 https://github.com/stanfordnlp/stanza
-```
 
 - **USAS-based MWEs**: extracted via **PyMUSAS**, which exposes UCREL’s USAS semantic resources and includes MWE tagging support:
-
-```text
 https://github.com/UCREL/pymusas
-```
 
 - **MeSH / AFL / ARTES lists**: stored in `mwes-lists/` for optional list-based matching in downstream analyses.
 
