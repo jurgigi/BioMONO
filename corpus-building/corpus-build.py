@@ -8,8 +8,8 @@ write the main IMRaD(+Abstract+Conclusion) sections to per-section folders as .t
 - Outputs: one .txt per (article, section), placed in output_root/<SectionName>/
 
 Usage:
-  python extract_imrad_sections.py /path/to/xml_folder /path/to/output_folder
-  python extract_imrad_sections.py /path/to/xml_folder /path/to/output_folder --subject bioinformatics  #change subject if looking to compile a corpus of different domain
+  python corpus-build.py /path/to/xml_folder /path/to/output_folder
+  python corpus-build.py /path/to/xml_folder /path/to/output_folder --subject bioinformatics  #change subject if looking to compile a corpus of different domain
 """
 
 from __future__ import annotations
