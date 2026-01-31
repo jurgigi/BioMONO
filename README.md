@@ -19,9 +19,7 @@ The segmented corpus itself is distributed separately (see **Corpus access** bel
 ## Corpus access
 
 The corpus (already segmented into IMRaD sections) is available for download here: 
-```text
 https://doi.org/10.6084/m9.figshare.31215955
-```
 
 ---
 
@@ -68,10 +66,7 @@ python -m spacy download en_core_web_sm
 `BioMONO_en` is derived from the PLOS **allofplos** collection (JATS XML). Articles belonging to the **bioinformatics** subject are filtered and then segmented into IMRaD sections using JATS section titles / tags, producing one plain-text file per section per article.
 
 PLOS allofplos:
-
-```text
 https://github.com/PLOS/allofplos
-```
 
 ---
 
@@ -101,22 +96,13 @@ https://github.com/UCREL/pymusas
 - **MeSH / AFL / ARTES lists**: stored in `mwes-lists/` for optional list-based matching in downstream analyses.
 
 MeSH:
-
-```text
 https://www.nlm.nih.gov/mesh/meshhome.html
-```
 
 AFL:
-
-```text
 https://www.eapfoundation.com/vocab/academic/afl/
-```
 
 ARTES:
-
-```text
 https://artes.app.univ-paris-diderot.fr/
-```
 
 ---
 
