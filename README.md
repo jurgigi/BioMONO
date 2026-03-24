@@ -199,12 +199,24 @@ Where _pᵢ_ is the observed proportion of an MWE’s occurrences in document _i
 ## How to cite this work
 
 ```bibtex
-@inproceedings{
-giraud2026beyond,
-title={Beyond Single Words: {MWE} Identification in Bioinformatics Research Articles and Dispersion Profiling Across {IMR}aD},
-author={Giraud, Jurgi and Gargett, Andrew},
-booktitle={22nd Workshop on Multiword Expressions (MWE 2026) @EACL2026},
-year={2026},
-url={https://openreview.net/forum?id=BHg9nM9DlC}
+@inproceedings{giraud-gargett-2026-beyond,
+    title = "Beyond Single Words: {MWE} Identification in Bioinformatics Research Articles and Dispersion Profiling Across {IMR}a{D}",
+    author = "Giraud, Jurgi  and
+      Gargett, Andrew",
+    editor = {Ojha, Atul Kr.  and
+      Mititelu, Verginica Barbu  and
+      Constant, Mathieu  and
+      Stoyanova, Ivelina  and
+      Do{\u{g}}ru{\"o}z, A. Seza  and
+      Rademaker, Alexandre},
+    booktitle = "Proceedings of the 22nd Workshop on Multiword Expressions ({MWE} 2026)",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Marocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.mwe-1.10/",
+    pages = "86--95",
+    ISBN = "979-8-89176-363-0",
+    abstract = "Multiword Expressions (MWEs) are pervasive in scientific writing, and in specialized domains they include both multiword terminology (e.g., noun compounds) and recurrent academic phrasing. This study profiles MWEs in a large corpus of bioinformatics research articles segmented by IMRaD sections. Building on recent multi-method approaches to scientific MWE identification, we extract MWEs using complementary automated strategies (semantic matching, dependency parsing, controlled vocabularies, and academic formula lists) and compare the resulting inventories by size, form, and IMRaD section distribution. We further quantify cross-document dispersion using document frequency and Gries' DP to distinguish widely reused expressions from items concentrated in a small subset of articles. Results show that bioinformatics MWEs are predominantly short and nominal, but that extraction methods differ in the extent to which they recover discourse and reporting phraseology. Dispersion is strongly long-tailed across sections with most MWEs being document-specific, while a smaller recurrent core aligns with section function and is enriched for conventional templates and standardized multiword terms. Overall, the findings argue for combining complementary identification methods with dispersion profiling to characterize domain ``multiwordness'' in a principled and section-sensitive way."
 }
 ```
